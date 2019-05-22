@@ -1,5 +1,5 @@
 # OS_8_2019
-# INTERACTION OF PROCESSES THROUGH NAMED CHANNELS 
+# INTERACTION OF PROCESSES THROUGH NAMED PIPE 
 # Tương tác của các tiến trình bằng các kênh có tên (named-pipe - also known as a FIFO)    
 ## Mục đích bài lab:  
 Làm quen với công cụ đồng bộ hóa sử dụng kênh có tên (named-pipe) và các lệnh hệ thống, đảo bảo cho việc tạo (create), mở (open), ghi (write), đọc (read), đóng (close) và xóa (unlink) kênh có tên. 

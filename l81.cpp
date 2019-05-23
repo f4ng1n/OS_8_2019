@@ -25,7 +25,7 @@ void sig_handle (int signo)
 
 void* func1(void *) 
 {    
-cout << "Writing to named channel:"<<endl;  
+cout << "Writing to named pipe:"<<endl;  
 int buf = 0;
    while(flag1)
    {

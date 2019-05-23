@@ -15,7 +15,7 @@ bool flag1 = true;
 
 void* func1(void *) 
 {    
-    cout << "Reading from named channel:"<<endl;
+    cout << "Reading from named pipe:"<<endl;
     int buf;
     while(flag1)
     {
